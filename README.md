@@ -1,2 +1,2 @@
-# Sistem-Operasi
+# repoSistemOperasi
 Berisi File tugas Sistem Operasi
